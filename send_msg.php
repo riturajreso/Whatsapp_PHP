@@ -1,5 +1,6 @@
 
 <?PHP
+
 $token = ""; // PHPHive WhatsAPI Token, Get it from http://wapi.phphive.info
 $wa_uid = ""; // WhatsApp Username
 $wa_pwd = ""; // WhatsApp Password
